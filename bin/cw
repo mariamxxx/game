@@ -3,5 +3,7 @@ public class cw{
         System.out.println("Hello World");
         int x = 5;
         int y = 6;
+        int y=9;
+        System.out.print(x);
     }
 }
