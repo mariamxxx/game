@@ -1,6 +1,7 @@
 public class cw{
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.print(25);
+        int x = 5;
+        int y = 6;
     }
 }
